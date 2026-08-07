@@ -1,0 +1,8 @@
+name: memcached
+title: Memcached
+icon: memcached
+
+services:
+- name: memcached
+  title: Memcached
+  service: memcached
